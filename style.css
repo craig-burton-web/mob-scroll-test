@@ -140,13 +140,16 @@ footer .foot-social {
   display: flex;
   justify-content: space-evenly;
   width: 100%;
-  max-height: 5rem;
-  margin-top: 2rem;
+  /* max-height: 5rem; */
+  margin: 2rem 0 1rem 0;
+  /* border: 3px solid blue; */
 }
 footer .foot-soc-cta {
   width: 100%;
   display: flex;
   align-items: center;
+  height: 3rem;
+  
 }
 footer .foot-soc-cta p {
   padding-right: 1rem;
@@ -167,6 +170,7 @@ footer .foot-soc-line {
   height: 2px;
 }
 footer .foot-soc-icons {
+  height: 3rem;
   width: 100%;
   display: flex;
   align-items: center;
