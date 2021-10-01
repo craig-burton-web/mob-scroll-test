@@ -212,7 +212,7 @@ footer .foot-social {
   }
   footer .foot-contact-loc {
     flex-direction: column;
-    max-height: 100vh;
+    /* max-height: 100vh; */
   }
   footer .foot-loc {
     display: flex;
@@ -232,7 +232,7 @@ footer .foot-social {
   }
   footer .foot-social {
     flex-direction: column;
-    max-height: 100%;
+    /* max-height: 100%; */
     height: fit-content;
   }
   footer .foot-soc-cta,
