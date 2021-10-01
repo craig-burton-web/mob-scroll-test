@@ -148,7 +148,7 @@ footer .foot-soc-cta {
   width: 100%;
   display: flex;
   align-items: center;
-  height: 3rem;
+  /* height: 3rem; */
   
 }
 footer .foot-soc-cta p {
@@ -163,6 +163,8 @@ footer .connect.blue {
 footer .connect,
 footer .us {
   font-size: 3rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 footer .foot-soc-line {
   background: white;
@@ -170,7 +172,7 @@ footer .foot-soc-line {
   height: 2px;
 }
 footer .foot-soc-icons {
-  height: 3rem;
+  /* height: 3rem; */
   width: 100%;
   display: flex;
   align-items: center;
@@ -182,6 +184,8 @@ footer .foot-soc-icons p {
   font-size: 5rem;
   color: white;
   padding-right: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 footer .foot-soc-icons p:first-of-type {
   padding-left: 1rem;
