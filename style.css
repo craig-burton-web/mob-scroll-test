@@ -173,7 +173,7 @@ footer .foot-soc-icons {
 }
 footer .foot-soc-icons p {
   font-family: Icons55;
-  height: 5rem;
+  /* height: 5rem; */
   line-height: 5rem;
   font-size: 5rem;
   color: white;
